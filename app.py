@@ -52,4 +52,4 @@ if html:
         writer.writeheader()
         for dato in datos:
             writer.writerow(dato)
-    print("Datos guardados en datos.csv")
+    print("*** Datos guardados en datos.csv ***")

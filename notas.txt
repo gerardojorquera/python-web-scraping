@@ -1,0 +1,2 @@
+# Librerias que se deben importar:
+pip install requests beautifulsoup4
